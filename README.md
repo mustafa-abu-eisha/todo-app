@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL Here](https://github.com/AbuEisha/front-end-mentor-challenges/tree/todo-app)
+- [Solution URL Here](https://github.com/AbuEisha/todo-app)
 - [Live Site URL Here](https://todo-app-live.pages.dev/)
 
 ## My process
