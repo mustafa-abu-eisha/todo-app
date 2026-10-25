@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL Here](https://github.com/AbuEisha/todo-app)
+- [Solution URL Here](https://github.com/mustafa-abu-eisha/todo-app)
 - [Live Site URL Here](https://todo-app-live.pages.dev/)
 
 ## My process
@@ -51,5 +51,5 @@ Users should be able to:
 
 ## Author
 
-- [GitHub Profile Here](https://github.com/AbuEisha)
-- [Frontend Mentor Profile Here](https://www.frontendmentor.io/profile/AbuEisha)
+- [GitHub Profile Here](https://github.com/mustafa-abu-eisha)
+- [Frontend Mentor Profile Here](https://www.frontendmentor.io/profile/mustafa-abu-eisha)
